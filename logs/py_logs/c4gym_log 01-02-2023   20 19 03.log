@@ -1,0 +1,4 @@
+DEBUG:root:Board_array: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+Color: O
+Status: -1
+Status Key: -1 = Ongoing, 0 = Draw, 1 = Yellow Win, 2 = Red Win
