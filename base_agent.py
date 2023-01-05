@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+from ray.rllib.env.multi_agent_env import MultiAgentEnv
 import random
 import stable_baselines3
 from stable_baselines3 import PPO
